@@ -5,6 +5,7 @@ https://blog.nudgeit.com/automation/convert-azure-vms-from-gen1-to-gen2
 For more detailed instructions refer to this page: https://resources.nudgeit.com/instrucitons-upgrading-azure-gen1-to-gen2-vms
 
 
+
 **Disclaimer**
 
 - This is not official Microsoft documentation or software.
