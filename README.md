@@ -1,5 +1,5 @@
 # Gen1ToGen2-NUDGEIT
-Script to convert Gen1 Azure VMs to Gen 2. Culled from Nudgeit
+Method1 Script to convert Gen1 Azure VMs to Gen 2. Culled from Nudgeit
 https://blog.nudgeit.com/automation/convert-azure-vms-from-gen1-to-gen2
 
 For more detailed instructions refer to this page: https://resources.nudgeit.com/instrucitons-upgrading-azure-gen1-to-gen2-vms
